@@ -11,3 +11,4 @@ venv1
 *.lock
 *.exe
 .vscode
+*.out
