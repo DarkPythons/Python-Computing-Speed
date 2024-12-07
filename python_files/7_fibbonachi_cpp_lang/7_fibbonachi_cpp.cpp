@@ -48,6 +48,9 @@ int main(void) {
     }
 
     cout << endl;
+
+    printf("\n");
+
 }
 
 int64 fibbonachi(int64 number) {

@@ -45,6 +45,8 @@ int main(void) {
         printf("%lli ", results_array[index]);
     }
 
+    printf("\n");
+
     return 0;
 }
 
