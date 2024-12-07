@@ -26,7 +26,7 @@ if %compile_program% EQU 0 (
 
 
 if %compile_program% EQU 1 (
-    echo Программа скомпилирована! выполнение...
+    echo Программа скомпилирована! Выполнение...
     7_fibbonachi_exe.exe
     echo Выполнение завершено
 ) else (

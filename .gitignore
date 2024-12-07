@@ -12,3 +12,5 @@ venv1
 *.exe
 .vscode
 *.out
+*.dll
+*.o
