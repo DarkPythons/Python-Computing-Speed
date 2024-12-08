@@ -6,8 +6,6 @@
 import time
 from fib_settings import MAX_FIB_NUMBER
 
-
-
 def main():
 
     start_time = time.time()
