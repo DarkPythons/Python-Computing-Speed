@@ -87,3 +87,12 @@
 <p>Все вычисления в этом случае заняли: 0.0 секунд</p>
 <p>Путь до кода/директории программы: python_files/10_fibbonachi_dinam_prog.py</p>
 <p>Путь до Jupyter программы: jupyter_files/10_fibbonachi_dinam_prog.ipynb</p>
+
+## Distribute
+
+## Developers
+
+- [DarkPythons](https://github.com/DarkPythons)
+
+## License
+The Python_Computing_Speed project is distributed under the MIT license.
