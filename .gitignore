@@ -14,3 +14,4 @@ venv1
 *.out
 *.dll
 *.o
+*.so
