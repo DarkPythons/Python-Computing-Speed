@@ -5,7 +5,7 @@
 // Делаем создание структуры для больших чисел
 typedef long long int int64;
 
-int64 fibbonachi_comp(int64 number) {
+extern "C" int64 fibbonachi_comp(int64 number) {
     if (number == 0) {
         return 0;
     }
